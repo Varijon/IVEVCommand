@@ -1,0 +1,16 @@
+[
+{
+  "modid": "IVEVCommand",
+  "name": "IVEVCommand",
+  "description": "A mod for displaying IV and EV.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Varijon"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
